@@ -50,4 +50,5 @@ def get_detected_objects():
         return jsonify({'error': 'No processed image available.'}), 404
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host='0.0.0.0', debug=True)
+
