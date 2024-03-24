@@ -3,7 +3,7 @@
 
 ## Description
 
-Briefly describe your project here.
+This project aims to create a web-based application for uploading transportation-related images, such as traffic camera images, and performing object detection on them. Users will be able to upload images through a user-friendly interface, and the application will use machine learning models to detect and identify objects in the images, providing valuable insights for transportation planning and management. The application will also include features for viewing and analyzing the detected objects, making it a valuable tool for transportation professionals and enthusiasts alike.
 
 ## Getting Started
 
