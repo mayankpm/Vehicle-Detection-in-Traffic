@@ -45,6 +45,10 @@ To run this project, follow these steps:
 
 Replace `<backend-image-name>` and `<frontend-image-name>` with your desired image names.
 
+Examples:
+![image](https://github.com/mayankpm/Vehicle-Detection-in-Traffic/assets/92316639/f5f22e2a-efb3-460b-be59-4b4881cc45bd)
+
+
 ## Usage
 
 Please keep it simple.
