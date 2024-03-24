@@ -1,10 +1,5 @@
 # Vehicle-Detection-in-Traffic
 
-Here is a README template for your project:
-
----
-
-# Project Name
 
 ## Description
 
